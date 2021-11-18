@@ -1,4 +1,4 @@
 print("My first Git program")
 print('Hello python')
-print("Author is Fats and Nicka")
+print("Author is Nikita")
 # Copy right 2021 year
